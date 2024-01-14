@@ -6,7 +6,7 @@
 
 1. **Práctica 1: Módulo de Introdución a la Ciberseguridad**
    - Práctica que consta en la auditoria de una aplicación web educativa para practicar técnicas de vulnerabilidad.
-   - [Proyecto Auditoría WebGoat](https://github.com/Kreitos13/keepCodingCyberVII/blob/main/M%C3%B3dulo%20de%20introducci%C3%B3n%20a%20la%20Ciberseguridad-Alex%20Coman.pdf)
+   - [Proyecto Auditoría WebGoat](https://github.com/Kreitos13/KeepCodingProjects/blob/main/Pr%C3%A1cticas/1.%20M%C3%B3dulo%20de%20introducci%C3%B3n%20a%20la%20Ciberseguridad.pdf)
 
 2. **Práctica 2: Módulo de Criptografía**
    - Práctica que consiste en el manejo de los algoritmos criptográficos, la gestion segura de claves, cifrados, descifrados y autentificación mediante firmas digitales.
